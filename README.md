@@ -1,4 +1,4 @@
-# AUTOMATIC VEHICLE CONTROL USING VISIBLE LIGHT COMMUNICATION
+# Automatic Vehicle Control using Visible Light Communication (AVCVLC)
 An Initiative to improve Road Safety
 
 
